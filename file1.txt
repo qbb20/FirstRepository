@@ -3,3 +3,4 @@ hello world!!!
 good bye
 line from user2
 line from user1
+line from user1 - lesson about rebase
